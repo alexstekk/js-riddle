@@ -1,19 +1,14 @@
-Опишите метод checkAnswer объекта riddle, поместив в него в логику проверки правильного ответа на загадку.
+# Riddle
 
-Должны соблюдаться следующие условия:
+## Description 
+Simple riddle app
 
-1. В случае правильного ответа выдать пользователю сообщение "Правильный ответ" (в alert и console.log)
+## Stack
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" height="40" alt="javascript logo"  />
 
-2. В случае неправильного ответа выдать пользователю сообщение "Неправильный ответ"
-
-3. В случае окончания попыток выдать пользователю сообщение "Игра окончена"
-
- 
-
-Дополнительно (по желанию - не проверяется автотестами):
-
-- предоставьте пользователю подсказки в случае неправильного ответа
-
-- подсказки предлагаются после первых двух неправильных ответов
-
-- после третьего неправильного ответа подсказка не нужна (как вариант, можно сообщить правильный ответ)
+</p>
